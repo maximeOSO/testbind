@@ -1,0 +1,8 @@
+name: mm_evt
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
+prefix: /home/maxime/anaconda3/envs/mm_evt
